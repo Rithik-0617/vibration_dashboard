@@ -23,3 +23,13 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+# Large vibration data files
+vibrationjson/
+*.json
+!package.json
+!package-lock.json
+!tsconfig*.json
+
+# Manifest files
+manifest.json
