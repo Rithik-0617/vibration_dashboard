@@ -32,4 +32,4 @@ vibrationjson/
 !tsconfig*.json
 
 # Manifest files
-manifest.json
+**/manifest.json
